@@ -1,0 +1,244 @@
+.back
+ {
+   background-color: rgb(36, 3, 36);
+ }
+ .col
+ {
+    border: solid black;
+ }
+ .bg
+ {
+    background-image:linear-gradient(rgba(56, 4, 73, 0.218),rgb(65, 7, 67)), url(./epic-gamer-room-setup.jpg);
+    height: 700px;
+    background-size: cover;
+ }
+.s
+{
+  border:1px solid ;
+  border-radius: 15px;
+  border-color: rgb(252, 8, 252);
+    margin-top: 200px;
+    margin-right: 300px;
+}
+
+.mm
+{
+    display: flex;
+    justify-content: space space-around;
+}
+
+.lpy
+{
+   border:  2px solid;
+    border-color:  rgb(32, 2, 32);
+    background-color: rgb(32, 2, 32);
+    border-radius: 20px;
+    margin-bottom: 20px;  
+    
+}
+.liy
+{
+    background-color: rgb(203, 199, 203);
+}
+.fg
+{
+   
+   
+    border:  2px solid;
+    border-color:  rgb(32, 2, 32);
+    background-color: rgb(32, 2, 32);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    
+}
+.jk
+{
+
+    background-color: rgb(66, 5, 66);
+    
+}
+.st
+{
+   
+    display: flex;
+    justify-content: space-around;
+}
+.bor
+{
+ 
+
+    border:  2px solid;
+    border-color:  rgb(210, 176, 210);
+    background-color: white;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    transition-duration: 0.6s;
+}
+
+
+.bgss
+{
+ 
+    
+    background-color: rgb(237, 233, 237);
+}
+.bor:hover
+{
+ transform: translate(0px,10px);
+ transition-duration: 0.6s;
+}
+.dd
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.posic
+{
+    background-color:  rgb(32, 2, 32);
+}
+.pl
+{
+background-color:  rgba(149, 18, 172, 0.963);
+}
+.po:hover{
+    box-shadow: 0px 0px 19px rgba(237, 238, 239, 0.979);
+    background-color: rgba(102, 10, 118, 0.963);
+}
+.plo:hover{
+    box-shadow: 0px 0px 19px rgba(237, 238, 239, 0.979);
+    background-color: rgba(5, 0, 7, 0.963) ;
+}
+
+.pl:hover
+{
+    background-color: rgb(87, 83, 91);
+     box-shadow: 0px 0px 19px rgba(237, 238, 239, 0.979);
+}
+.pll{
+    
+    background-color: rgb(30, 19, 183);
+}
+.plo
+{
+    background-color: black;
+}
+
+.pll:hover{
+   
+    box-shadow: 0px 0px 19px rgb(238, 232, 232);
+    background-color: rgba(5, 0, 7, 0.963) ;
+}
+.kj{
+    display: flex;
+    justify-content: space-evenly;
+    border: 10px;
+    margin-top: 30px;
+}
+.sd
+{
+    background-color: beige;
+}
+.bgo
+{
+    border: 1px ;
+    border-radius: 25px;
+    background-color: rgb(54, 9, 63);
+}
+.kc
+{
+    background-color: rgb(237, 240, 240);
+     border-radius: 25px;
+}
+
+.kio
+{
+    background-color: aliceblue;
+    border-radius: 25px;
+    
+}
+.bb
+{
+
+    border-radius: 25px;
+    background-color: blueviolet;
+}
+.ppp
+{
+    padding: 5px;
+   
+   
+    border-radius:10px ;
+    background-color: rgb(125, 20, 186);
+}
+.pppw
+{
+    width: fit-content;
+    padding: 5px;
+   ;
+   
+    border-radius:10px ;
+    background-color: rgb(125, 20, 186);
+}
+.pppr
+{
+     width: fit-content;
+    padding: 5px;
+   
+    
+    border-radius:10px ;
+     background-color:  rgb(32, 2, 32);
+}
+.pppi   
+{
+    padding: 5px;
+    border-color:  rgb(125, 20, 186);
+      border-radius:10px ;
+   
+   background-color: rgb(125, 20, 186);
+}
+.ko
+{
+     text-decoration: underline;
+    text-decoration-color: rgb(55, 2, 63);
+    text-decoration-thickness: 5px;
+   
+}
+.fa-phone-volume
+{
+    
+  margin-right: 10px;
+    color: rgb(206, 221, 222);
+}
+.fa-message
+{
+    
+  margin-right: 10px;
+    color: rgb(206, 221, 222);
+}
+.fa-location-crosshairs
+{
+    
+    
+  margin-right: 10px;
+    color: rgb(206, 221, 222);
+
+
+}
+
+.mp
+{
+     text-decoration: underline;
+    text-decoration-color: rgb(243, 240, 240);
+    text-decoration-thickness: 5px;
+   
+}
+.lio{
+  transition-duration: 0.7s;  
+  
+}
+.lio:hover{
+    transform: translate(2px,8px);
+    transition-duration: 0.7s;
+}
